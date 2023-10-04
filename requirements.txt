@@ -1,0 +1,10 @@
+flask
+numpy
+scikit-learn
+streamlit
+pandas
+pickle
+requests
+ast
+nltk
+sklearn
